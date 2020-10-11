@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
+  title: 'JokoDev Docusaurus Sample',
+  tagline: 'Awesome tagline',
   url: 'https://joko-dev.github.io',
   baseUrl: '/DocusaurusTest/',
   onBrokenLinks: 'throw',
